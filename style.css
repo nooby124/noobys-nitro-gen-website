@@ -1,1 +1,13 @@
-
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  font-family: Comic Sans MS, 'Rubik', Papyrus, 'Comic Neue', Ariel;
+  
+}
+label{
+  color: white;
+  font-family:'Rubik', sans-serif, Papyrus, 'Comic Neue', Ariel;
+}
+/* who uses javascript its overrated anyawys (THAT WAS A JOKE PLEASE DONT KILL ME)*/
